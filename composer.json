@@ -1,5 +1,5 @@
 {
-    "name": "symfony-bundles/json-request-bundle",
+    "name": "filament-uno/json-request-bundle",
     "type": "symfony-bundle",
     "description": "Symfony JsonRequest Bundle",
     "keywords": ["json", "symfony", "bundle", "angular"],
@@ -7,8 +7,13 @@
     "license": "MIT",
     "authors": [
         {
+            "name": "Paul Sohier",
+            "email": "paul@filament.uno"
+        },
+        {
             "name": "Dmitry Khaperets",
-            "email": "khaperets@gmail.com"
+            "email": "khaperets@gmail.com",
+            "role": "Original developer"
         }
     ],
     "autoload": {
@@ -31,7 +36,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "3.x-dev"
+            "dev-main": "1.x-dev"
         }
     }
 }
