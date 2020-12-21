@@ -5,7 +5,7 @@ This is a copy of the Original SymfonyBundles JsonRequest bundle, with commit fa
 I will try to keep this up to date, but I won't be actively adding new features to this bundle.
 
 
-[![Build Status][testing-image]][testing-link]
+![Build Status][testing-image]
 [![Scrutinizer Code Quality][scrutinizer-code-quality-image]][scrutinizer-code-quality-link]
 [![Code Coverage][code-coverage-image]][code-coverage-link]
 [![Total Downloads][downloads-image]][package-link]
@@ -51,8 +51,7 @@ composer require filament-uno/json-request-bundle
 [license-link]: https://github.com/filament-uno/json-request-bundle/blob/master/LICENSE
 [license-image]: https://poser.pugx.org/Filament-uno/json-request-bundle/license
 
-[testing-link]: https://travis-ci.org/symfony-bundles/json-request-bundle
-[testing-image]: https://travis-ci.org/symfony-bundles/json-request-bundle.svg?branch=master
+[testing-image]: https://github.com/Filament-uno/json-request-bundle/workflows/PHP%20Composer/badge.svg
 [stable-image]: https://poser.pugx.org/Filament-uno/json-request-bundle/v/stable
 
 [downloads-image]: https://poser.pugx.org/Filament-uno/json-request-bundle/downloads
