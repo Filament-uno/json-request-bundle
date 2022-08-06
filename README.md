@@ -4,6 +4,8 @@ SymfonyBundles JsonRequest Bundle
 This is a copy of the Original SymfonyBundles JsonRequest bundle, with commit fa0e3d252c244aea89ef44866c404b29cfd6dc4c as base.
 I will try to keep this up to date, but I won't be actively adding new features to this bundle.
 
+**Please use the original bundle:** https://github.com/symfony-bundles/json-request-bundle
+
 
 ![Build Status][testing-image]
 [![Scrutinizer Code Quality][scrutinizer-code-quality-image]][scrutinizer-code-quality-link]
